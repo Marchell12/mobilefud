@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999920028252",
+    "project_id": "foodpesan",
+    "storage_bucket": "foodpesan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999920028252:android:660a15e020838271eab499",
+        "android_client_info": {
+          "package_name": "com.makanan.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999920028252-obbuvv50fm3ttrpouskjp9h8vef5fsgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmtcQtNODC_zy2syPBH_THSgwNSEkdq7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999920028252-obbuvv50fm3ttrpouskjp9h8vef5fsgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
